@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FacuTello</h1>
 <h3 align="center">A passionate student of web development</h3>
 <p align="center">
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **.NET**
 </p>
 <p align="center">
 - 📫 How to reach me **facundostello@hotmail.com**
